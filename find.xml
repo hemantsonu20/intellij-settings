@@ -11,5 +11,6 @@
     <mask>*.java</mask>
     <mask>src/main</mask>
     <mask>pom.xml</mask>
+    <mask>*.js*</mask>
   </component>
 </application>
